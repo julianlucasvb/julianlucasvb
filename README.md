@@ -1,9 +1,12 @@
 # Hey there 👋
 
-My name is Julian Vilas Boas, I'm from Brazil I'm a network analyst is a cybersecurity and pentest student.
-- 📍 I live in Patrocínio-MG
+My name is Julian Vilas Boas! 
+I'm a network analyst is a cybersecurity and pentest student.
+
+I am passionate about the open source and hacking world.
+- 📍 From RS living in Patrocínio-MG
 - 💻 Network analyst and Pentester
-- 🌈 share experiences with other professionals, while having a good chat about information technology career [TecnoHacking Podcast](https://anchor.fm/tecnohacking-podcast) 
+- 🎤 share experiences with other professionals, while having a good chat about information technology career [TecnoHacking Podcast](https://anchor.fm/tecnohacking-podcast) 
 
 [![Instagram Badge](https://img.shields.io/badge/-@julianlucasvb-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/julianlucasvb)](https://instagram.com/julianlucasvb) 
 [![Linkedin Badge](https://img.shields.io/badge/-Julian%20Lucas-6600cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianlucasvb/)](https://www.linkedin.com/in/julianlucasvb/) 
