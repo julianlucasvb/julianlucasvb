@@ -1,10 +1,10 @@
 # Hey there 👋
 
-My name is Julian Vilas Boas! 
-I'm a network analyst is a cybersecurity and pentest student.
+My name is Julian Vilas Boas
+I'm a network analyst is a cybersecurity and pentest student
 
-I am passionate about the open source and hacking world.
-- 📍 From RS living in Patrocínio-MG
+I'm passionate about the open source and hacking world
+- 📍 I living in Patrocínio-MG
 - 💻 Network analyst and Pentester
 - 🎤 share experiences with other professionals, while having a good chat about information technology career [TecnoHacking Podcast](https://anchor.fm/tecnohacking-podcast) 
 
