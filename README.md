@@ -1,6 +1,7 @@
 # Hey there 👋
+Foender @TecnoHacking
 
-My name is Julian Vilas Boas
+My name is Julian Lucas
 I'm a network analyst is a cybersecurity and pentest student
 
 I'm passionate about the open source and hacking world
