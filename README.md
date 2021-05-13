@@ -5,7 +5,7 @@ My name is Julian Lucas
 I'm a network analyst is a cybersecurity and pentest student
 
 I'm passionate about the open source and hacking world
-- 📍 I living in Patrocínio-MG
+- 📍 I living in Patrocínio-MG 🇧🇷
 - 💻 Network analyst and Pentester
 - 🎤 share experiences with other professionals, while having a good chat about information technology career [TecnoHacking Podcast](https://anchor.fm/tecnohacking-podcast) 
 
