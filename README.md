@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hi 👋
 Foender @TecnoHacking
 
 My name is Julian Lucas
