@@ -1,14 +1,4 @@
-# Hi 👋
-
-My name is Julian Lucas
-
-I'm passionate about the open source and hacking world
-
-- Foender @TecnoHacking
-- I'm a network analyst is a cybersecurity and pentest student
-- 📍 I living in Patrocínio-MG 🇧🇷
-- 💻 Network analyst and Pentester
-- 🎤 share experiences with other professionals, while having a good chat about information technology career [TecnoHacking Podcast](https://anchor.fm/tecnohacking-podcast) 
+# E ai, Eu sou o Julian Lucas
 
 [![Instagram Badge](https://img.shields.io/badge/-@julianlucasvb-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/julianlucasvb)](https://instagram.com/julianlucasvb) 
 [![Linkedin Badge](https://img.shields.io/badge/-Julian%20Lucas-6600cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianlucasvb/)](https://www.linkedin.com/in/julianlucasvb/) 
