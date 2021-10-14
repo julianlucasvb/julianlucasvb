@@ -1,7 +1,28 @@
 # E ai, Eu sou o Julian Lucas
 
-[![Instagram Badge](https://img.shields.io/badge/-@julianlucasvb-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://instagram.com/julianlucasvb)](https://instagram.com/julianlucasvb) 
-[![Linkedin Badge](https://img.shields.io/badge/-Julian%20Lucas-6600cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianlucasvb/)](https://www.linkedin.com/in/julianlucasvb/) 
-[![Gmail Badge](https://img.shields.io/badge/-julianlucasvb@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:julianlucasvb@gmail.com)
-[![Anchor Badge](https://img.shields.io/badge/-TecnoHacking%20Podcast-6600cc?style=flat-square&logo=Anchor&logoColor=white&link=https://anchor.fm/tecnohacking-podcast)](https://anchor.fm/tecnohacking-podcast) 
+<div align="center">
+  <a href="https://github.com/julianlucasvb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianlucasvb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianlucasvb&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kalip-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UCrPEneR4H7oZzeeDkXQJP1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/julianlucasvb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/julianlucasvb" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:julianlucasvb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julianlucasvb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 ![Snake animation](https://github.com/julianlucasvb/julianlucasvb/blob/output/github-contribution-grid-snake.svg)
