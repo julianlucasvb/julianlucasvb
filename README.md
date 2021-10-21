@@ -14,8 +14,8 @@
   <img align="center" alt="Julian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julian-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
-  /*<img align="right" alt="Julian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/829354996377321482/898335072460095508/picasion.com_00dc417499a89812cd79a9b73c1fb7de.gif">
-</div>*/
+  <img align="right" alt="Julian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/829354996377321482/898335072460095508/picasion.com_00dc417499a89812cd79a9b73c1fb7de.gif">
+</div>
   
   ##
  
