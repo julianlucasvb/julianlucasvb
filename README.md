@@ -16,8 +16,6 @@
   
   <img align="right" alt="Julian-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/829354996377321482/898335072460095508/picasion.com_00dc417499a89812cd79a9b73c1fb7de.gif">
 </div>
-  
-  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UCrPEneR4H7oZzeeDkXQJP1w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
