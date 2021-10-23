@@ -1,4 +1,4 @@
-# E ai, eu sou Julian Lucas!
+# Hey, I'm Julian Lucas!
 
 <div align="center">
   <a href="https://github.com/julianlucasvb">
